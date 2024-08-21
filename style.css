@@ -1,0 +1,51 @@
+header img {
+    width:50px ;
+
+}
+header {
+    display:flex ;
+    justify-content: space-between;
+    padding:20px ;
+    background-color: blueviolet;
+
+}
+body{
+    margin:0 ;
+
+
+}
+header a {text-decoration:none ;
+color: white;
+margin-left:10px ;
+
+}
+.main-blok{display:flex ;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin-bottom: 270px;
+color: white;
+
+
+}
+main {text-align: center;
+background: url(https://vkplay.ru/pre_0x736_resize/hotbox/content_files/game/2024/06/26/eea4cd091fe64df9ade71c94d4dff887.jpg?quality=85);
+height:317px ;
+padding-bottom:50px ;
+
+ 
+
+
+}
+main h1 {font-weight: 700;
+
+
+}
+ul {text-align: left;
+margin-bottom:50px ;
+
+}
+li:first-child{
+  font-weight: bold;
+  font-size: 20px;  
+}
